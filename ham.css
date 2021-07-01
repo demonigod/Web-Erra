@@ -1,0 +1,469 @@
+
+@media only screen and (min-width:954px){
+    .hamicon{
+        display: none;
+    }
+         
+}
+@media only screen and (max-width:953px){
+    .single-items{
+        display:block;
+    
+    }
+    
+    .items-all{
+        display: block;
+        position: fixed;
+        top: 0rem;
+        right: -250px;
+        width: 250px;
+        height: 100vh;
+        z-index: 2;
+        background:linear-gradient(45deg,rgb(222, 173, 255), rgb(181,117,218));
+        transition:ease-in 0.4s ;
+        
+    }
+    .single-items{
+        margin-top: 2rem;
+        font-family: 'Odibee Sans', cursive; 
+        font-size: 700;
+        font-size: 1.5rem;
+        word-wrap: 1px;
+    }
+    .menu-bar{
+        z-index: 3;
+    }
+    .hamicon{
+        z-index: 4;
+    }
+    /*section-first*/
+    .heading {
+        font-size: 2.5rem;
+    }
+    .about {
+       
+        padding: 17px 21px;
+        margin-right: 9px;
+    }
+    .insigths {
+        
+        padding: 17px 21px;
+    }
+    .second-two img {
+        
+        height: 20rem;
+    }
+    /*section-second*/
+    .contain1 {
+        
+        width: 15rem;
+        height: 18rem;
+    }
+    .in-contain {
+        width: 11rem;
+    }
+    .Web-Erra {
+        margin-top: 1rem;
+        font-size: 1.44rem;
+    }
+    .at {
+        margin-top: 1rem;
+        font-size: 13px;
+        word-spacing: 1px;
+        margin-right: 1rem;
+    }  
+    .it {
+        margin-top: 1rem;
+        font-size: 13px;
+        word-spacing: 1px;
+        margin-right: 1rem;
+    }
+    .complete {
+        font-size: 1.34rem;
+    }
+    .even {
+        margin-top: 1rem;
+        font-size: 12px;
+        font-weight: 300;
+        word-spacing: 1px;
+        margin-right: 1rem;
+    }
+    .to {
+        margin-top: 1rem;
+        font-size: 12px;
+        word-spacing: 1px;
+        margin-right: 1rem;
+    }
+    .from {
+        margin-top: 1rem;
+        font-family: 'Quicksand', sans-serif;
+        font-size: 12px;
+        font-weight: 300;
+        word-spacing: 1px;
+        margin-right: 1rem;
+    }
+    .chottatwo img {
+        height: 33rem;
+        width: 22rem;
+    }
+   
+    .abo {
+        display: flex;
+        height: 38vh;
+        width: 98%;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+    .subs {
+        font-size: 1.4rem;
+        
+        margin-bottom: 17px;
+    }
+    .sub-line {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        font-size: 1.1rem;
+    }
+    .sub-button {
+        width: 7rem;
+        height: 3rem;
+    }
+    .listen {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 1.44rem;
+    }
+    .pod img {
+        height: 2rem;
+        cursor: pointer;
+    }
+    .join {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 1.33rem;
+    }
+    .future img {
+        height: 3rem;
+    }
+    .lat1 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 1.5rem;
+    }
+    .about-items h5 {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 14px;
+    }
+    .ser1 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 1.5rem;
+    }
+   
+    .abo-items h5 {
+        font-size: 1.3rem;
+    }
+    .photos img {
+        height: 1.8rem;
+    }
+    .only-para {
+        height: 13vh;
+        width: 94%;
+    }
+    .last-para {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 0.77rem;
+    }
+    .footer {
+        font-size: 0.77rem;
+    }
+}
+
+
+@media only screen and (max-width:731px){
+    .second{
+        height: 100vh;
+        flex-wrap: wrap;
+        
+    }
+}
+@media only screen and (max-width:729px){
+       
+      .chottatwo img{
+          margin-top: 0;
+          height: 16rem;
+          width: 24rem;
+
+      }
+      .waddalite{
+          height: 140vh;
+      }
+      .contact-box{
+          height: 56vh;
+      }
+      .contact{
+         flex-direction: column;
+         height: 56vh;
+      
+           }
+           .contact-items img {
+            height: 3rem;
+        }
+        .contact-items{
+           width: 98%;
+           display: flex;
+           flex-direction: column;
+           justify-items: center;
+           align-items: center;
+        }
+        .infor{
+            height: 90vh;
+            flex-wrap:wrap;
+           
+        }
+        .abo{
+            flex-wrap: wrap;
+             height: 70vh;
+         }
+         .listen{
+             display: flex;
+             flex-wrap:wrap;
+         }
+      
+}
+@media only screen and (max-width:480px){
+    
+
+       .logo-main {
+             margin-left: 10px;
+     }
+    .contain1 {
+        width: 20rem;
+        height: 18rem;
+    }
+    .second{
+        height: 150vh;
+    }
+    .third {
+        height: 30vh;
+    }
+    .small-part {
+        width: 98%;
+    }
+    .head {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 1.35rem;
+    }
+    .paragraph {
+        margin-top: 1.5rem;
+    }
+    .logo-items{
+        flex-wrap: wrap;
+    }
+    .main-head {
+        font-size: 1.2rem;
+    }
+    .one img {
+        height: 369px;
+        
+    }
+    .Web-Erra {
+        margin-top: 0.2rem;
+        font-size: 1.1rem;
+    }
+    .at {
+        margin-top: 0.2rem;
+        font-size: 10px;
+        word-spacing: 0px;
+        margin-right: 0rem;
+    }
+    .it {
+        margin-top: 0.2rem;
+        font-size: 10px;
+        word-spacing: 0px;
+        margin-right: 0rem;
+    }
+   
+
+     .complete {
+    font-size: 1.1rem;
+    }
+    .even {
+        margin-top: 0.2rem;
+        font-size: 9px;
+        font-weight: 300;
+        word-spacing: 0px;
+        margin-right: 0rem;
+    }
+    .to {
+        margin-top: 0.2rem;
+        font-size: 9px;
+        word-spacing: 0px;
+        margin-right: 0rem;
+    }
+    .from {
+        margin-top: 0.2rem;
+        font-family: 'Quicksand', sans-serif;
+        font-size: 9px;
+        font-weight: 300;
+        word-spacing: 0px;
+        margin-right: 0rem;
+    }
+
+    
+    
+      .chottatwo img {
+          margin-top: 0;
+        height: 25rem;
+          width: 18rem;
+     } 
+     .contact-items{
+         justify-items: center;
+         align-items: center;
+     }
+     .sub-line {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        font-size: 0.99rem;
+     }
+     .subs {
+        font-size: 1.2rem;
+        margin-bottom: 11px;
+    }
+    
+
+
+.sub-button {
+    width: 6rem;
+    height: 2rem;
+}
+.only-para {
+    height: 24vh;
+    width: 98%;
+}
+.footer {
+    font-size: 0.66rem;
+}
+    
+}
+@media only screen and (min-width:352px){
+
+    .one img {
+        height: 322px;
+    }
+
+
+}
+@media only screen and (min-width:355px) and (max-width:360px){
+    .logo-items{
+      height: 20vh;
+        align-items: center;
+    }
+
+    .two h4{
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width:352px){
+
+    .second-two img {
+        height: 18rem;
+    }
+    .heading {
+        font-size: 2.1rem;
+    }
+    .about {
+        padding: 12px 10px;
+        margin-right: 4px;
+        font-size: 14px;
+    }
+    .insigths {
+        padding: 12px 5px;
+        font-size: 14px;
+    }
+    .contain1 {
+        width: 17rem;
+        height: 17rem;
+    }
+    .third {
+        height: 37vh;
+    }
+    .head {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items:center;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 1.15rem;
+    }
+    .paragraph {
+        margin-top: 0.77rem;
+        letter-spacing: 0px;
+    }
+    .logo-items {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .one{
+        display: flex;
+       
+        align-items: center;
+        width: 100%;
+    }
+    .one img {
+        height: 232px;
+        width: 14rem;
+    }
+    .pehla img {
+        height: 4rem;
+        width: 12rem;
+    }
+    .two h4 {
+        padding-left: 2px;
+        font-size: 8px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+   
+    .two h4 {
+        padding-left: 3px;
+        font-size: 8px;
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .ik::before {
+       
+        font-size: 7px;
+    }
+    .ik::after {
+        content: "9 Mar 2021";
+        display: block;
+        padding-right: 6rem;
+        padding-top: 6px;
+        font-family: 'Quicksand', sans-serif;
+        font-size: 7px;
+    }
+    .chottatwo img {
+        margin-top: 0;
+        height: 20rem;
+        width: 14rem;
+    }
+    .duja img {
+        height: 4rem;
+    }
+    .ten img {
+        height: 4rem;
+    }
+    .chautha img {
+        height: 4rem;
+    }
+
+
+
+}
+
+    
+

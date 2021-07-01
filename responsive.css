@@ -1,0 +1,280 @@
+@media only screen and (max-width:1300px) {
+    
+        /*navbar*/
+        .single-items {
+            font-size: 1.12rem;
+            padding: 15px;
+        }
+         /*main section*/
+         .heading {
+            font-size: 3rem;
+         }
+         .second-two img {
+            
+            margin-left: 0rem;
+            height: 28rem;
+        }
+         /*three container*/
+         .para1{
+             display: flex;
+             flex-wrap: wrap;
+         }
+         .second{
+             justify-content: space-evenly;
+         }
+         .contain1{
+             align-items: center;
+             width: 18rem;
+             height: 20rem;
+
+         }
+         .in-contain{
+             width: 14rem;
+             margin-left: 0;
+         }
+         /*white section*/
+         .small-part{
+             width: 79%;
+         }
+
+
+
+    /*grid section*/
+    .one {
+        width: 44%;
+    }
+    .two{
+        width: 51%;
+        height: 68vh;
+    }
+   .two h4{
+       padding-left: 7px;
+       font-size: 16px;
+       display: flex;
+       flex-direction: column;
+       flex-wrap:wrap;
+   }
+   .ik::before {
+       padding-right: 6rem;
+   }
+   .ik::after {
+       padding-right: 5rem;
+   }
+   .do::before {
+    padding-right: 6rem;
+}
+.do::after {
+    padding-right: 5rem;
+}
+.teen::before {
+    padding-right: 6rem;
+}
+.teen::after {
+    padding-right: 5rem;
+}
+.chaar::before {
+    padding-right: 6rem;
+}
+.chaar::after {
+    padding-right: 5rem;
+    
+}  
+/*section*/
+.Web-Erra{
+    margin-top: 1.11rem;
+    font-size: 1.66rem;
+}
+.at {
+    margin-top: 1rem;
+    font-size: 15px;
+    word-spacing: 2px;
+    margin-right: 2rem;
+}
+.it {
+    margin-top: 1rem;
+    font-size: 15px;
+    word-spacing: 2px;
+    margin-right: 1rem;
+}
+.complete {
+    
+    font-size: 1.66rem;
+    
+}
+.even {
+    margin-top: 1rem;
+    font-size: 15px;
+    font-weight: 300;
+    word-spacing: 2px;
+    margin-right: 2rem;
+}
+.to {
+    margin-top: 1rem;
+    font-size: 15px;
+    word-spacing: 2px;
+    margin-right: 2rem;
+}
+.from {
+    margin-top: 1rem;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    word-spacing: 2px;
+    margin-right: 2rem;
+}
+
+/*contact-section*/
+.contact-items img {
+    height: 3rem;
+}
+.number {
+  
+    font-size: 1.12rem;
+}
+.address {
+   
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 7px;
+}
+.email {
+  
+    margin-top: 9px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.subs {
+  
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+
+.sub-line {
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.sub-button {
+    
+    width: 8rem;
+    height: 4rem;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    margin-top: 14px;
+}
+/*about section*/
+.infor{
+justify-content: space-evenly;
+}
+.abo {
+    
+    justify-content: space-evenly;
+
+}
+.listen {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.88rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.join {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.55rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+.future img {
+    height: 4rem;
+}
+.last-para {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+}
+
+}
+@media only  screen and (max-width:729px){
+    .box{
+        flex-direction: column-reverse;
+    }
+    .small-part {
+        width: 92%;
+    }
+  .head {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.55rem;
+  }
+  .paragraph {
+    margin-top: 1.8rem;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 1rem;
+  }
+  .logo-items img {
+    cursor: pointer;
+    height: 3rem;
+  }
+  .grid {
+    height: 158vh;
+  }
+  .main-head {
+    font-size: 1.6rem;
+  }
+  .flex{
+      flex-direction: column;
+  }
+
+.one {
+    width: 98%;
+}
+.stock {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+.two {
+    width: 98%;
+    height: 65vh;
+}
+.pehla img {
+    height: 5rem;
+}
+.two h4 {
+    padding-left: 7px;
+    font-size: 14px;
+}
+.duja img {
+    height: 5rem;
+}
+.ten img {
+    height: 5rem;
+}
+.chautha img {
+    height: 5rem;
+}
+.waddalite {
+    width: 98%;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+      
+
+.chottaone {
+    margin-top: 1rem;
+}
+.Web-Erra {
+    margin-top: 1rem;
+    font-size: 1.33rem;
+}
+    
+}
